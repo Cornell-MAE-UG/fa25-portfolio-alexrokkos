@@ -1,7 +1,14 @@
----
-layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
----
+
+<h2>Project: Bar Actuator</h2>
+<table>
+  <tr><th>Title</th><td>Bar Actuator Project</td></tr>
+  <tr><th>Description</th><td>Reaching Max Height Bar Actuator</td></tr>
+  <tr><th>Technologies</th><td>Sketch</td></tr>
+  <tr>
+    <th>Image</th>
+    <td><img src="/assets/images/bar-actuator_sketch.png" alt="Bar Actuator Sketch" width="400"></td>
+  </tr>
+</table>
+
+
+For this project, I raised the weight at the end of the rod, by having the actuator extend causing the rod to rotate about the joint connected to the bottom. The actuator reaches as maximum height  
