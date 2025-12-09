@@ -16,3 +16,5 @@ Revisiting Bar Actuator Project
 **Constraints**: We could only use one bar, 3 joints, and a actuator.
 
 **DOF** My orginal probelm had two degrees of freedom, the length of the actuator and the angle of the actuator. 
+
+![Drawing](./assets/images/bar:actuator_sketch.png)
