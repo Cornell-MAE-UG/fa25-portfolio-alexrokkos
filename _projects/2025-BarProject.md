@@ -18,3 +18,7 @@ Revisiting Bar Actuator Project
 **DOF** My orginal probelm had two degrees of freedom, the length of the actuator and the angle of the actuator. 
 
 ![Drawing](./assets/images/bar:actuator_sketch.png)
+
+**Changes**: After reviisting the problem to take into account the beam bending, I preformed calculations to decide the best shape and material of the beam. The turned out to be al with a E of about 69 GPa and a cross section of a circle, with diameter of about 12 cm. This assume the weight is 1 kN. 
+
+**Calculations**
