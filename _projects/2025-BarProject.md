@@ -27,6 +27,3 @@ Revisiting Bar Actuator Project
 
 ![Drawing](/assets/images/finalcalc.png)
 
-git add .
-git commit -m "<Commit Edit>"
-git push origin main
