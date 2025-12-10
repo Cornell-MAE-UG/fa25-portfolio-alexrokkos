@@ -12,7 +12,6 @@ Image: "/assets/images/bar:actuator_sketch.png"
 Revisiting Bar Actuator Project
 
 ---
-hello tthis is a check 
 **Original Problem:** The intent of this project was to lift a weight to the greatest height possible within a pre-defined space. Using one bar, three joints, and an actuator, I conceptualized a device that achieves this by optimizing linkage geometry and actuator travel.
 
 **Constraints:** We could only use one bar, three joints, and one actuator.
