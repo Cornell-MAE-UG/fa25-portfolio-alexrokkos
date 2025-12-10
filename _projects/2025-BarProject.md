@@ -2,7 +2,6 @@
 Title: Bar Actuator Project!
 Description: Reaching Max Height Bar Actuator
 Technologies: Sketch
-Image: "/assets/images/bar:actuator_sketch.png"
 ---
 
 **Objective:** The goal of this design was to lift a weight to the maximum height possible within the defined space. Using one bar, three joints, and an actuator, I designed a device that lifts a load efficiently while staying within the project constraints.
