@@ -17,11 +17,11 @@ Revisiting Bar Actuator Project
 
 **DOF:** The original problem had two degrees of freedom: the actuator length and the actuator angle.
 
-![Drawing](/assets/images/bar_sketch.png)
+![Drawing](../assets/images/bar_sketch.png)
 
 **Changes:** After revisiting the problem to take beam bending into account, I performed calculations to decide the best beam shape and material. The calculations identified an appropriate Young's modulus and cross-section to limit deflection while meeting weight and space constraints.
 
 **Calculations and Drawing**
 
-![Drawing](/assets/images/finalcalc.png)
+![Drawing](../assets/images/finalcalc.png)
 
