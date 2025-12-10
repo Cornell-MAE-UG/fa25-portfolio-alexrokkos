@@ -22,4 +22,4 @@ Revisiting Bar Actuator Project
 **Changes**: After reviisting the problem to take into account the beam bending, I preformed calculations to decide the best shape and material of the beam. The turned out to be al with a E of about 69 GPa and a cross section of a circle, with diameter of about 12 cm. This assume the weight is 1 kN. 
 
 **Calculations and Drawing**
-![Drawing](/assets/images/calc/draw.jpeg)
+![Drawing](/assets/images/calc/draw-calc.png)
