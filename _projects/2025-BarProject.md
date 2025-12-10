@@ -1,5 +1,5 @@
 ---
-Title: Bar Actuator Project
+Title: Bar Actuator Project!
 Description: Reaching Max Height Bar Actuator
 Technologies: Sketch
 Image: "/assets/images/bar:actuator_sketch.png"
